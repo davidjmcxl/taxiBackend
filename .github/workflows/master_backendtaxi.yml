@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'backendTaxi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E56F991BFDB543D899FC7FBDB559BEE9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFD61A3FF5CB4BE5B10E80770326C333 }}
           package: .
