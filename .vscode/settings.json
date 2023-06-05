@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1cf82018-6214-4c02-a6ce-5dd6ff743156/resourceGroups/mongotaxi/providers/Microsoft.Web/sites/backendTaxi",
+    "appService.deploySubpath": "."
+}
