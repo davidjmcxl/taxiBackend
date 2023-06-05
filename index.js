@@ -50,7 +50,7 @@ app.post("/inscription",async(req, res)=>{
 
 
 })
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT||4001, () => {
     console.log(`Server running on port 3000`);
     })
 //rutas
